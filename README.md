@@ -8,4 +8,4 @@ The project utilizes [Dlib](http://dlib.net) and [OpenCV](https://opencv.org/) f
 
 **If github fails to display the notebook, you can see the online rendered version [here](https://nbviewer.jupyter.org/github/dmnguyen92/Real-time-multi-face-recognition/blob/master/Real-time%20multiple%20face%20recognition.ipynb)**
 
-<img src="feature_importance.gif" width="800" />
+<img src="face_recog.gif" width="800" />
